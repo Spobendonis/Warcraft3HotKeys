@@ -1,0 +1,15 @@
+C:\Users\spoor\Desktop\Software\C#\Wc3Hotkeys2\bin\Debug\net6.0-windows\Wc3Hotkeys2.exe
+C:\Users\spoor\Desktop\Software\C#\Wc3Hotkeys2\bin\Debug\net6.0-windows\Wc3Hotkeys2.deps.json
+C:\Users\spoor\Desktop\Software\C#\Wc3Hotkeys2\bin\Debug\net6.0-windows\Wc3Hotkeys2.runtimeconfig.json
+C:\Users\spoor\Desktop\Software\C#\Wc3Hotkeys2\bin\Debug\net6.0-windows\Wc3Hotkeys2.dll
+C:\Users\spoor\Desktop\Software\C#\Wc3Hotkeys2\bin\Debug\net6.0-windows\ref\Wc3Hotkeys2.dll
+C:\Users\spoor\Desktop\Software\C#\Wc3Hotkeys2\bin\Debug\net6.0-windows\Wc3Hotkeys2.pdb
+C:\Users\spoor\Desktop\Software\C#\Wc3Hotkeys2\obj\Debug\net6.0-windows\Wc3Hotkeys2.csproj.AssemblyReference.cache
+C:\Users\spoor\Desktop\Software\C#\Wc3Hotkeys2\obj\Debug\net6.0-windows\Wc3Hotkeys2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spoor\Desktop\Software\C#\Wc3Hotkeys2\obj\Debug\net6.0-windows\Wc3Hotkeys2.AssemblyInfoInputs.cache
+C:\Users\spoor\Desktop\Software\C#\Wc3Hotkeys2\obj\Debug\net6.0-windows\Wc3Hotkeys2.AssemblyInfo.cs
+C:\Users\spoor\Desktop\Software\C#\Wc3Hotkeys2\obj\Debug\net6.0-windows\Wc3Hotkeys2.csproj.CoreCompileInputs.cache
+C:\Users\spoor\Desktop\Software\C#\Wc3Hotkeys2\obj\Debug\net6.0-windows\Wc3Hotkeys2.dll
+C:\Users\spoor\Desktop\Software\C#\Wc3Hotkeys2\obj\Debug\net6.0-windows\ref\Wc3Hotkeys2.dll
+C:\Users\spoor\Desktop\Software\C#\Wc3Hotkeys2\obj\Debug\net6.0-windows\Wc3Hotkeys2.pdb
+C:\Users\spoor\Desktop\Software\C#\Wc3Hotkeys2\obj\Debug\net6.0-windows\Wc3Hotkeys2.genruntimeconfig.cache
